@@ -125,4 +125,4 @@ def predict_and_evaluate(directory, n_samples=150, grid_rows=3, grid_cols=5):
 * [TensorFlow Official Documentation](https://www.tensorflow.org/)
 * [Keras API Guide](https://keras.io/)
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving)
-* Dataset PlantVillage (pepper bell disease
+* Dataset PlantVillage (pepper bell disease)
