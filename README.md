@@ -1,4 +1,3 @@
-```
 # Deep Learning Image Classification: Pepper Bell Disease Detection
 
 ## Deskripsi Proyek
@@ -126,7 +125,4 @@ def predict_and_evaluate(directory, n_samples=150, grid_rows=3, grid_cols=5):
 * [TensorFlow Official Documentation](https://www.tensorflow.org/)
 * [Keras API Guide](https://keras.io/)
 * [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving)
-* Dataset PlantVillage (pepper bell disease)
-
-**Terima kasih**
-*Ananta Boemi Adji*
+* Dataset PlantVillage (pepper bell disease
